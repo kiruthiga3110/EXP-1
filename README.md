@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |  | **Reg. No.:** |  |
+| **Name:** |Kiruthiga B  | **Reg. No.:** |26018327  |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |14/11/2026 | **Batch / Section:** |26ODJ166 |
 
 ---
 
@@ -86,15 +86,15 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 | S. No. | Supply voltage Vs (V) | VR1 (V) | VR2 (V) | VR3 (V) | VR1 + VR2 + VR3 (V) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Theoritical |  |  |  | | |
-| Practical | | | | | |
+| Theoritical |100  |1668V  |27.8V  | 55.6V| 100.05|
+| Practical |100 |16.7V |27.8V |55.6V | 100.1|
 
 ### B. KCL – Current measurements
 
 | S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | I1 + I2 + I3 (A) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Theoritical | | | | | | |
-| Practical | | | | | | |
+| Theoritical |-1.48A |1.85A |0.56A |52.63A | | |
+| Practical |1.58A |1.05A | 0.53A|52.6A | | |
 
 ## CALCULATIONS
 
@@ -106,6 +106,12 @@ Substitute the observed values and verify that the algebraic sum of the voltage 
 
 *[ Paste the KVL calculation screenshot here ]*
 
+<img width="1200" height="1600" alt="KVL" src="https://github.com/user-attachments/assets/5fb5d677-77b9-4dbe-bb8c-2ed42a7f6251" />
+
+<img width="1297" height="763" alt="Screenshot 2026-11-14 205450 - Copy" src="https://github.com/user-attachments/assets/32e736b5-da0f-49be-aa09-93d79d4656c1" />
+
+
+
 **Figure 5:** KVL calculation
 
 ### B. KCL
@@ -115,6 +121,11 @@ According to KCL, **It = I1 + I2 + I3**.
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
 *[ Paste the KCL calculation screenshot here ]*
+
+<img width="1297" height="763" alt="Screenshot 2026-11-14 205450 - Copy" src="https://github.com/user-attachments/assets/d784ec66-b677-4cb5-881f-2a052f8140e5" />
+
+<img width="1196" height="724" alt="Screenshot 2026-11-14 205625" src="https://github.com/user-attachments/assets/62e9353b-0f1a-42b9-8bef-3cfc2f884297" />
+
 
 **Figure 6:** KCL calculation
 
