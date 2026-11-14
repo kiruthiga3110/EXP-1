@@ -122,7 +122,8 @@ Substitute the observed values and verify that the total current entering the no
 
 *[ Paste the KCL calculation screenshot here ]*
 
-<img width="1200" height="1600" alt="KCL" src="https://github.com/user-attachments/assets/2b26533d-c640-4025-a90c-f0906f3372d0" />
+<img width="792" height="752" alt="Screenshot 2026-11-14 210025" src="https://github.com/user-attachments/assets/ea225043-f3df-42f1-be44-9f58b3f5dffe" />
+
 
 
 <img width="1196" height="724" alt="Screenshot 2026-11-14 205625" src="https://github.com/user-attachments/assets/62e9353b-0f1a-42b9-8bef-3cfc2f884297" />
