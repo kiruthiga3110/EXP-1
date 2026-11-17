@@ -64,8 +64,9 @@ output:
 **Figure 1:** KVL verification circuit
 
 ### B. KCL circuit diagram
+diagram:
 
-*[ Insert the KCL circuit diagram here ]*
+
 
 **Figure 2:** KCL verification circuit
 
@@ -74,14 +75,22 @@ output:
 Build the KVL and KCL circuits in Proteus using the same resistor values and supply voltage as the hardware circuit. Place DC voltmeters and DC ammeters from the Virtual Instruments mode, run the simulation, and paste a screenshot showing the meter readings for each circuit.
 
 ### A. KVL simulation
+input:
+<img width="1911" height="1080" alt="Screenshot 2026-10-05 105553" src="https://github.com/user-attachments/assets/339dc875-8b96-44b5-bdb9-488ec7d1e402" />
+output:
+<img width="1912" height="1017" alt="Screenshot 2026-10-08 185732" src="https://github.com/user-attachments/assets/74dc3e15-450e-439a-9dc6-3c2d95abb9ab" />
 
-*[ Paste the Proteus KVL simulation screenshot here ]*
+
 
 **Figure 3:** Proteus simulation of KVL circuit
 
 ### B. KCL simulation
 
-*[ Paste the Proteus KCL simulation screenshot here ]*
+input:
+<img width="1539" height="658" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/9e8be067-aebe-4de4-892b-c671a49adb2f" />
+output:
+<img width="617" height="335" alt="kcl output" src="https://github.com/user-attachments/assets/b1547776-aad1-4cd6-bb0a-e75f616d3705" />
+
 
 **Figure 4:** Proteus simulation of KCL circuit
 
